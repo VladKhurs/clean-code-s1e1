@@ -18,9 +18,9 @@
 }
 
 @media (max-width:768px) {
-.info-link { 
-  text-align: center;
-}
+  .info-link { 
+    text-align: center;
+  }
 }
 .center-element {
   display: block;
